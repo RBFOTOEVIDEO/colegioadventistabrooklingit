@@ -1,0 +1,406 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_F1353FCC_EEBD_2AF4_41BC_2790CF1323AA.source = https://api.whatsapp.com/send?phone=551123486800
+LinkBehaviour_CC047655_DF3B_EAD6_41C8_AD2320DCE4C2.source = https://api.whatsapp.com/send?phone=551123486800
+LinkBehaviour_3EB72E08_2C03_A137_419A_B927F90980CC.source = https://api.whatsapp.com/send?phone=551123486800
+LinkBehaviour_3EB77E11_2C03_A159_41B5_0C23E2B90548.source = https://api.whatsapp.com/send?phone=551123486800
+LinkBehaviour_3EAA4E01_2C03_A139_41A8_8F5AF7AE83A2.source = https://www.educacaoadventista.org.br/
+LinkBehaviour_ED875594_FA6D_1CB1_41DF_69C9EA11D1F5.source = https://www.educacaoadventista.org.br/
+LinkBehaviour_CDD1325D_DF38_EAD6_41CB_2ABF5327382C.source = https://www.facebook.com/colegioadvbrooklin
+LinkBehaviour_3EB4FE07_2C03_A139_4183_3DEEEFCB69BE.source = https://www.facebook.com/colegioadvbrooklin
+PopupWebFrameBehaviour_C84F76A9_DF18_EA7E_41D0_6D8F85E430E5.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4459.925324916136!2d-46.68455812381534!3d-23.621525963807088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce50bd6550a853%3A0xb75d96e524d3eca3!2sCol%C3%A9gio%20Adventista!5e1!3m2!1spt-BR!2sbr!4v1687371668695!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_3EABEDFE_2C03_A2CB_41BC_F4B41466D968.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4459.925324916136!2d-46.68455812381534!3d-23.621525963807088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce50bd6550a853%3A0xb75d96e524d3eca3!2sCol%C3%A9gio%20Adventista!5e1!3m2!1spt-BR!2sbr!4v1687371668695!5m2!1spt-BR!2sbr
+LinkBehaviour_3EB55E06_2C03_A13B_4181_166B1E4CAD88.source = https://www.instagram.com/colegioadv.brooklin/
+LinkBehaviour_E29968A6_F7B0_B75B_41EA_6612D743C07D.source = https://www.instagram.com/colegioadv.brooklin/
+LinkBehaviour_CD74C094_DF38_E657_41E9_10C285BAADD6.source = https://www.youtube.com/@ColegioAdventistadoBrooklin/about
+LinkBehaviour_3EB52E0A_2C03_A14B_4188_3C595B14D9E2.source = https://www.youtube.com/@ColegioAdventistadoBrooklin/about
+PopupWebFrameBehaviour_057BCA7D_179B_3E5F_41AA_CA7A9E615D68.url = //www.youtube.com/embed/CvPvMIr24uE?v=CvPvMIr24uE
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_3C8771D2_06FC_20A5_4171_3D0118494581.text = AV. JORNALISTA ROBERTO MARINHO
+HotspotPanoramaOverlayTextImage_36EAE8EF_0934_207B_4193_E36956EB2E40.text = AV. SANTO AMARO
+HotspotPanoramaOverlayTextImage_4C28FA71_0934_2064_4192_40D5AAD72444.text = COLÉGIO ADVENTISTA BROOKLIN
+HotspotPanoramaOverlayTextImage_4B0387F1_093C_2067_419C_A059BCC62CB8.text = EDUCAÇÂO ADVENTISTA INFANTIL 
+HotspotPanoramaOverlayTextImage_0D385C07_11B8_9AFF_41B1_5BCE83833922.text = Futuras Instalações
+HotspotPanoramaOverlayTextImage_02E1B59E_18AE_3A16_417E_1441CB244520.text = IGREJA ADVENTISTA
+HotspotPanoramaOverlayTextImage_360F17F1_092F_E064_419A_65F261DDB3D0.text = MONOTRILHO
+HotspotPanoramaOverlayTextImage_4E49E1CD_0955_E0BF_4167_55FCB3A9A4B1.text = Sala Psicólogo 
+
+### URL
+overlay_456BE4BC_092C_20DC_418B_427E417976B6.url = //www.youtube.com/embed/XDsZkFZkO5w?v=XDsZkFZkO5w&t=57s
+
+## Media
+
+### Audio
+audiores_0077E57F_1CB9_62C8_41B2_F5E891778EC7.mp3Url = media/audio_02BE5DFB_1CB9_3DC8_4180_3F9D95FD7E9F_pt.mp3
+audiores_031AA874_1C9A_E2D8_419E_FFCC0863EB94.mp3Url = media/audio_02D2008C_1C99_6248_41B0_25AC9264B0CB_pt.mp3
+audiores_0BECBD54_186A_0A69_41B3_20561C5E7E19.mp3Url = media/audio_0A331902_186E_0BEF_41B1_52976F9E7A68_pt.mp3
+audiores_0006F4E8_1896_7A39_41A3_84B5A0D8346F.mp3Url = media/audio_0FBA720F_186A_19F6_4165_BFA2A84C2D7D_pt.mp3
+audiores_3E0CCBA1_1C89_2678_41BA_E3E98AE07D23.mp3Url = media/audio_3DCA2D98_1C89_6248_4188_72BBBBA62B38_pt.mp3
+audiores_471D37DF_096C_205B_419B_52941B977E15.mp3Url = media/audio_469EAE23_096C_23E4_418F_1CF282C1D4D6_pt.mp3
+
+### Image
+imlevel_4C1039A5_0934_20EF_419A_09D1F8C26D7E.url = media/panorama_0EC5D442_03FD_B229_4183_80E0F7631157_HS_37qzmihd_pt.png
+imlevel_406CED90_092C_20A4_416A_58C8A28FD51C.url = media/panorama_0EC5D442_03FD_B229_4183_80E0F7631157_HS_5ey3x388_pt.png
+imlevel_02A9CB62_18BA_0E2E_41B7_7425E9124841.url = media/panorama_0EC5D442_03FD_B229_4183_80E0F7631157_HS_dz6jikq7_pt.png
+imlevel_4C10B95D_0934_205C_4197_C9C2C798C136.url = media/panorama_0EC5D442_03FD_B229_4183_80E0F7631157_HS_e0gqly6l_pt.png
+imlevel_4A8B202F_093C_3FFC_417F_35D8F06D5A20.url = media/panorama_0EC5D442_03FD_B229_4183_80E0F7631157_HS_j8r5u1u3_pt.png
+imlevel_043F49DE_18BA_0A16_41B0_D51FE83F1B96.url = media/panorama_0EC5D442_03FD_B229_4183_80E0F7631157_HS_oxlqz6yr_pt.png
+imlevel_406D9E05_092C_23AF_419E_159972D078D8.url = media/panorama_14B8CE17_040E_8E57_418D_364851BA5CEE_HS_8u73mo27_pt.png
+imlevel_341CB6B1_140F_C775_41A1_79198D86A2EA.url = media/panorama_16FBF6DF_040B_7FD7_418B_5B65D07EFBE5_HS_pft8kfyn_pt.png
+imlevel_08D96A8D_1C77_77D6_4178_DC69302329CD.url = media/popup_0973E8A2_1C56_8E26_41B4_950AFB88E0E3_pt_0_0.jpg
+imlevel_08D94A8D_1C77_77D6_41A7_7BC0A24EF831.url = media/popup_0973E8A2_1C56_8E26_41B4_950AFB88E0E3_pt_0_1.jpg
+imlevel_08D93A8E_1C77_77D2_41B3_96A561C3BA98.url = media/popup_0973E8A2_1C56_8E26_41B4_950AFB88E0E3_pt_0_2.jpg
+imlevel_08D91A8E_1C77_77D2_41B4_C3E80BA9A03A.url = media/popup_0973E8A2_1C56_8E26_41B4_950AFB88E0E3_pt_0_3.jpg
+imlevel_0DB0BA55_11B8_9F10_4183_3C83A08FAB94.url = media/popup_0CFEE274_11B9_EF10_4189_64AC7D975003_pt_0_0.jpeg
+imlevel_0DB0AA56_11B8_9F10_419C_BFF4469DC7E8.url = media/popup_0CFEE274_11B9_EF10_4189_64AC7D975003_pt_0_1.jpeg
+imlevel_12489909_0DA4_8036_4196_E61E6ABD1FFE.url = media/popup_12C07F49_0DA4_8036_419E_FBF19EAB7D0D_pt_0_0.jpg
+imlevel_12488909_0DA4_8036_4195_DAD54E745A6B.url = media/popup_12C07F49_0DA4_8036_419E_FBF19EAB7D0D_pt_0_1.jpg
+imlevel_1248E90A_0DA4_804A_4170_87EB2AB52D16.url = media/popup_12C07F49_0DA4_8036_419E_FBF19EAB7D0D_pt_0_2.jpg
+imlevel_124D4C8A_0DA4_8035_418F_2AEFE4F01E03.url = media/popup_12D6B6F0_0DA4_81D6_4171_EDD09615C6DC_pt_0_0.jpg
+imlevel_124C4C8B_0DA4_804B_41A1_1D7EC2C2ED90.url = media/popup_12D6B6F0_0DA4_81D6_4171_EDD09615C6DC_pt_0_1.jpg
+imlevel_124CBC8B_0DA4_804B_41A9_C63EBF7EFB9D.url = media/popup_12D6B6F0_0DA4_81D6_4171_EDD09615C6DC_pt_0_2.jpg
+imlevel_124C9C8C_0DA4_804D_4192_D890841F415D.url = media/popup_12D6B6F0_0DA4_81D6_4171_EDD09615C6DC_pt_0_3.jpg
+imlevel_1238D21B_0DAB_804A_4197_96587F7E5F20.url = media/popup_12E4A0D0_0DAC_81D6_4164_679E1D9BE814_pt_0_0.jpg
+imlevel_1238E21B_0DAB_804A_419C_EF8EB88FD60A.url = media/popup_12E4A0D0_0DAC_81D6_4164_679E1D9BE814_pt_0_1.jpg
+imlevel_1238F21B_0DAB_804A_4170_D98D9FE6C551.url = media/popup_12E4A0D0_0DAC_81D6_4164_679E1D9BE814_pt_0_2.jpg
+imlevel_1238021C_0DAB_804E_41A7_3589A8ECAD82.url = media/popup_12E4A0D0_0DAC_81D6_4164_679E1D9BE814_pt_0_3.jpg
+imlevel_1CF2BA22_0D23_E03D_4198_ED47944C8F90.url = media/popup_1F6BBC48_0D23_600D_4197_DA159E34221E_pt_0_0.jpg
+imlevel_1CF2AA22_0D23_E03D_4182_2E7330FBFCFE.url = media/popup_1F6BBC48_0D23_600D_4197_DA159E34221E_pt_0_1.jpg
+imlevel_1CF29A22_0D23_E03D_41A2_8F3826365D36.url = media/popup_1F6BBC48_0D23_600D_4197_DA159E34221E_pt_0_2.jpg
+imlevel_1CF28A22_0D23_E03D_4196_32FEEA1623C0.url = media/popup_1F6BBC48_0D23_600D_4197_DA159E34221E_pt_0_3.jpg
+
+### Popup Image
+
+### Title
+photo_EAAC9606_F5D8_CDD6_41E6_91E554F99A3F.label = 01
+album_E5FB9F33_F046_9711_41E6_3C4E38D181B9_0.label = 01
+photo_D5D9CA4B_F5E8_5A5D_41CF_06185942D6EB.label = 01
+photo_E6DFCF99_F7F0_A969_41E2_6257D578A014.label = 01
+album_314CEAC0_1189_9BAC_41A2_F343E19B74F7_0.label = 01
+photo_EAAC9606_F5D8_CDD6_41E6_91E554F99A3F.label = 01
+photo_E6DFCF99_F7F0_A969_41E2_6257D578A014.label = 01
+album_EE89C715_F4A9_CBCA_41ED_D49C45245CC9_0.label = 01
+album_30F8D28C_1188_ABB4_41A0_9C1328F4AF96_0.label = 01
+photo_D5D9CA4B_F5E8_5A5D_41CF_06185942D6EB.label = 01
+album_314CEAC0_1189_9BAC_41A2_F343E19B74F7_1.label = 02
+photo_F817C408_F7F0_DF68_41E5_F7C4D420C98B.label = 02
+album_30F8D28C_1188_ABB4_41A0_9C1328F4AF96_1.label = 02
+album_E5FB9F33_F046_9711_41E6_3C4E38D181B9_1.label = 02
+photo_EB85D9AE_F5D8_C6D6_41C8_E3EE1F62F396.label = 02
+photo_EB84CD08_F5E8_5FDA_41D6_0D91B03718C8.label = 02
+photo_EB85D9AE_F5D8_C6D6_41C8_E3EE1F62F396.label = 02
+photo_F817C408_F7F0_DF68_41E5_F7C4D420C98B.label = 02
+photo_EB84CD08_F5E8_5FDA_41D6_0D91B03718C8.label = 02
+album_EE89C715_F4A9_CBCA_41ED_D49C45245CC9_1.label = 02
+album_E5FB9F33_F046_9711_41E6_3C4E38D181B9_2.label = 03
+photo_EB864CD8_F5D8_DE7A_41E5_BF7E1D51EE90.label = 03
+photo_EB85002B_F5E8_45DE_41DD_233842ABE3F3.label = 03
+album_314CEAC0_1189_9BAC_41A2_F343E19B74F7_2.label = 03
+photo_F814A745_F7F0_D9D9_41E9_D5EF525D78DE.label = 03
+album_EE89C715_F4A9_CBCA_41ED_D49C45245CC9_2.label = 03
+photo_EB85002B_F5E8_45DE_41DD_233842ABE3F3.label = 03
+album_30F8D28C_1188_ABB4_41A0_9C1328F4AF96_2.label = 03
+photo_EB864CD8_F5D8_DE7A_41E5_BF7E1D51EE90.label = 03
+photo_F814A745_F7F0_D9D9_41E9_D5EF525D78DE.label = 03
+photo_F814EA85_F7F0_EB58_41E8_AA3E42343EA3.label = 04
+photo_EB87606C_F5D8_C65A_41D8_3301E0090744.label = 04
+album_EE89C715_F4A9_CBCA_41ED_D49C45245CC9_3.label = 04
+photo_F814EA85_F7F0_EB58_41E8_AA3E42343EA3.label = 04
+photo_EB87606C_F5D8_C65A_41D8_3301E0090744.label = 04
+photo_EB85F3CC_F5E8_4A5B_41E4_CFE1FB31ED18.label = 04
+album_30F8D28C_1188_ABB4_41A0_9C1328F4AF96_3.label = 04
+album_E5FB9F33_F046_9711_41E6_3C4E38D181B9_3.label = 04
+album_314CEAC0_1189_9BAC_41A2_F343E19B74F7_3.label = 04
+photo_EB85F3CC_F5E8_4A5B_41E4_CFE1FB31ED18.label = 04
+photo_EB8693E4_F5D8_CA4A_41E0_E003E4642855.label = 05
+photo_EB850754_F5E8_4A4A_41D5_A659E6ABC3CF.label = 05
+photo_F8149DD0_F7F0_E8F7_41E5_259D725ECAED.label = 05
+album_EE89C715_F4A9_CBCA_41ED_D49C45245CC9_4.label = 05
+photo_EB850754_F5E8_4A4A_41D5_A659E6ABC3CF.label = 05
+album_30F8D28C_1188_ABB4_41A0_9C1328F4AF96_4.label = 05
+photo_F8149DD0_F7F0_E8F7_41E5_259D725ECAED.label = 05
+photo_EB8693E4_F5D8_CA4A_41E0_E003E4642855.label = 05
+album_E5FB9F33_F046_9711_41E6_3C4E38D181B9_4.label = 05
+photo_F814D14E_F7F0_F9E8_41E5_CCA86FFCAD2B.label = 06
+album_EE89C715_F4A9_CBCA_41ED_D49C45245CC9_5.label = 06
+photo_F814D14E_F7F0_F9E8_41E5_CCA86FFCAD2B.label = 06
+album_30F8D28C_1188_ABB4_41A0_9C1328F4AF96_5.label = 06
+photo_EB85FB3E_F5E8_7A36_41EA_8A3F9E9A1F39.label = 06
+photo_EB85FB3E_F5E8_7A36_41EA_8A3F9E9A1F39.label = 06
+album_E5FB9F33_F046_9711_41E6_3C4E38D181B9_5.label = 06
+album_EE89C715_F4A9_CBCA_41ED_D49C45245CC9_6.label = 07
+photo_EB850ECF_F5E8_7A56_41E6_AEB8C879853C.label = 07
+album_E5FB9F33_F046_9711_41E6_3C4E38D181B9_6.label = 07
+photo_F81494CD_F7F0_F8E9_41E4_961DDCF92B8C.label = 07
+photo_F81494CD_F7F0_F8E9_41E4_961DDCF92B8C.label = 07
+photo_EB850ECF_F5E8_7A56_41E6_AEB8C879853C.label = 07
+photo_F814D867_F7F0_F7D8_41EE_502B06170A57.label = 08
+photo_F814D867_F7F0_F7D8_41EE_502B06170A57.label = 08
+album_EE89C715_F4A9_CBCA_41ED_D49C45245CC9_7.label = 08
+photo_EB85D288_F5E8_4ADA_41E7_5C4CDDE539D5.label = 08
+photo_EB85D288_F5E8_4ADA_41E7_5C4CDDE539D5.label = 08
+album_EE89C715_F4A9_CBCA_41ED_D49C45245CC9_8.label = 09
+photo_EB8515CD_F5E8_4E5A_41E6_90F83385DBDD.label = 09
+photo_EB8515CD_F5E8_4E5A_41E6_90F83385DBDD.label = 09
+photo_EB85292E_F5E8_47D6_41B6_B2F24975DFDC.label = 10
+photo_EB85292E_F5E8_47D6_41B6_B2F24975DFDC.label = 10
+panorama_14B86D2E_040D_9278_418F_DB4359789EFD.label = 6º ao 9º
+album_E5FB9F33_F046_9711_41E6_3C4E38D181B9.label = Atividades extras (Pintura / Horta)
+panorama_14B86B37_040A_9657_4189_DBBCCF533726.label = Banheiro
+panorama_14BFDB1D_040D_965B_418D_FC599CEFC198.label = Banheiro Fundamental l
+panorama_056E5F00_08E7_7C56_4156_BCB35D93B680.label = Brinquedoteca
+panorama_056E0E47_08E5_5CDA_416E_008A298438A6.label = Brinquedão
+panorama_056E2F6E_08E5_7CAA_4186_42EDFD16B2AA.label = Brinquedão
+panorama_14B85ADB_040A_97DF_4183_8D393709E301.label = Cantina
+panorama_056E42DE_08E6_A5EB_4198_2EFC23C1B47F.label = Corredor
+panorama_14B88D28_040E_9279_4166_6267061038D6.label = Corredor das Colmeias
+album_EC05F5F8_F4E8_50F3_41A3_5A147E3FC0EE.label = Culinária
+album_E968BC6A_F568_BE5E_41C5_D75B7E6EC77F.label = Dia da África
+panorama_056FDBC6_08E6_BBDB_4180_7ED4A4F77D59.label = Entrada
+panorama_056E6D85_08E7_5C5E_419E_8DD5D461E255.label = Entrada Corredor
+panorama_056FA9E1_08E6_A7D9_4163_D714D20E4D8C.label = Entrada Salas
+panorama_14B89D77_040E_B2D7_4168_A624C9F66227.label = Entrada Salinha do Sono
+panorama_14BD28DE_040A_93D9_417B_1F4CF3F237E0.label = Entrada da Secretaria
+panorama_14B8F9B0_040A_B269_418D_A4621D687079.label = Entrada dos Alunos
+panorama_14B84F17_040E_8E57_418D_0A51C1456A63.label = Escada Secretaria
+panorama_16B2E67E_0EB4_BF61_41A6_C8C5CFF51658.label = Espaço Bolos
+panorama_16B24597_0EB4_5DAF_41A0_D9EF11C3A33D.label = Espaço Frios
+panorama_16B2639C_0EB4_55A1_41A8_D0AB22BBCD86.label = Espaço Pizza
+panorama_14B8BFFA_040E_8DD9_4176_53BDDB00E34A.label = Fachada Colégio
+panorama_07E5D1A7_08E7_A45A_41A0_3E00111C38AD.label = Fachada Escolinha
+panorama_06B32423_1198_AB37_41A2_CC4962BD76E6.label = Fachada Estacionamento
+panorama_035285FA_1188_9511_41A2_F333DDA6E22F.label = Fachada McDonald's
+panorama_17CD97D6_0EB4_FDA1_417D_7558213A8A70.label = Fachada Padaria
+panorama_16FBF6DF_040B_7FD7_418B_5B65D07EFBE5.label = Foto da Entrada
+panorama_14BF8D7B_040D_B2DF_4184_A9F99E6AFE5F.label = Fund. II
+panorama_14B9B241_040F_B62B_416F_D99AFFF5B44D.label = Hall Diretoria
+panorama_056FF81A_08E6_E46B_416B_EA46AA1E1EA6.label = Hall Entrada Salas
+panorama_14B84CB8_040D_9259_4182_0F7F055D7E2B.label = Hall Fund ll
+panorama_14BF7B22_040D_7669_414C_BE7C8AEC3C28.label = Hall Fundamental l
+panorama_14B8CE17_040E_8E57_418D_364851BA5CEE.label = Hall Sala de Entrada
+panorama_056F11F7_08E7_A7BA_4180_B38AED19F0B7.label = Hall de Entrada
+panorama_16B46750_0EB4_DEA2_419C_C9810D2C71ED.label = Hall de Entrada
+panorama_14B990BD_040F_725B_4184_59448CE8F5E6.label = Hall de Entrada da Secretaria
+album_EE89C715_F4A9_CBCA_41ED_D49C45245CC9.label = Hora do Sono
+panorama_0E472F1E_2B66_2E20_41C4_69001294305F.label = Igreja
+album_E10598C2_F026_603E_41E9_A668B7CBEE0F.label = Informática
+album_314CEAC0_1189_9BAC_41A2_F343E19B74F7.label = Inglês
+panorama_0419E471_1198_EB10_4180_2E417D9E4F1F.label = Interno Estacionamento
+panorama_056FE65B_08E6_ECEA_4182_BAE934B4B430.label = Maternal
+panorama_14B99225_040F_966B_4132_4B8BE2260F66.label = Nossa Secretaria
+video_02E9325B_17BF_29A4_4161_6C9AA4073CA5.label = Novo projeto
+panorama_056E3101_08E5_6456_4186_F31D359D3B98.label = Pré I
+panorama_056E649D_08E6_AC6E_417D_E336401857E4.label = Pré II
+panorama_14B83A86_040A_9628_418F_A4E3D0AFD4C6.label = Quadra Esportiva
+panorama_14B8AA80_040A_F629_4174_51164AAC3AB0.label = Quadra Esportiva
+panorama_032BC53B_0E8C_D2E7_4199_4EF5F3DAA249.label = Recreação e Interatividade
+panorama_14B8BB1B_040A_B65F_418F_BD2A94F42CD4.label = Refeitório
+panorama_056E9059_08E7_64E9_41A1_0D7E4026A26F.label = Refeitório
+panorama_036B9601_0E8C_FEA2_41A8_1DCA72910130.label = Refeitório do Integral
+album_30F8D28C_1188_ABB4_41A0_9C1328F4AF96.label = Robótica
+panorama_14BFEBE8_040D_95F9_4143_1B88C51981A8.label = Sala 1º ao 5º
+panorama_14B9E272_040F_96E9_415D_1CAB265A0E96.label = Sala Direção
+panorama_14BFBB6A_040D_B6F9_4151_3423B4029A37.label = Sala Fund l
+panorama_14B98246_040F_F629_415B_25DD20DD8B08.label = Sala da Cordenação
+panorama_14B82E86_040E_8E29_4180_06432FDC1956.label = Salinha do Sono
+panorama_14BFFBE5_040D_F5EB_4178_0ADE27002E8B.label = Subida Para Salas Piso 2
+panorama_14B9A21A_040F_9659_4180_E7728122CDB9.label = Tesouraria
+panorama_0EC5D442_03FD_B229_4183_80E0F7631157.label = Vista Aérea do Colégio
+
+### Video
+videolevel_20D1A8B2_30D0_B0CB_41C0_046BA0205BB8.posterURL = media/video_02E9325B_17BF_29A4_4161_6C9AA4073CA5_poster_pt.jpg
+videolevel_20D1A8B2_30D0_B0CB_41C0_046BA0205BB8.url = media/video_02E9325B_17BF_29A4_4161_6C9AA4073CA5_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_E532ADDF_F4B8_512D_41DC_FDD7A9FDE095_mobile.label =  Atividades Extras
+Button_E532ADDF_F4B8_512D_41DC_FDD7A9FDE095.label =  Atividades Extras
+Button_D1C05E52_DF08_3AD2_41E8_91ADB9BDA0E9_mobile.label = BOTÂO
+Button_D1C05E52_DF08_3AD2_41E8_91ADB9BDA0E9.label = BOTÂO
+Button_D1C0DE55_DF08_3AD6_41C9_3F1E7B70C35D.label = Banheiros
+Button_D1C0DE55_DF08_3AD6_41C9_3F1E7B70C35D_mobile.label = Banheiros
+Button_D1C37E53_DF08_3AD2_41AA_C58785D12091.label = Bar
+Button_D1C37E53_DF08_3AD2_41AA_C58785D12091_mobile.label = Bar
+Button_D1C35E53_DF08_3AD2_41CC_B6E8AD79E17C.label = Chill Out
+Button_D1C35E53_DF08_3AD2_41CC_B6E8AD79E17C_mobile.label = Chill Out
+Button_D1C3CE53_DF08_3AD2_41E2_C6205DD47123_mobile.label = Colégio
+Button_D1C3CE53_DF08_3AD2_41E2_C6205DD47123.label = Colégio
+Button_D1C02E52_DF08_3AD2_41EB_3DD6DBBC8B50.label = Contraturno (Integral)
+Button_D1C02E52_DF08_3AD2_41EB_3DD6DBBC8B50_mobile.label = Contraturno (Integral)
+Button_D1C0CE55_DF08_3AD6_41E6_853FE9E7AC23_mobile.label = Coordenação
+Button_D1C0CE55_DF08_3AD6_41E6_853FE9E7AC23.label = Coordenação
+Button_E55E9AC1_F4BB_D315_41E6_84C5BB347E4A_mobile.label = Culinária
+Button_E55E9AC1_F4BB_D315_41E6_84C5BB347E4A.label = Culinária
+Button_E5581641_F4BB_D315_41C3_6184EF12E759.label = Dia da África
+Button_E5581641_F4BB_D315_41C3_6184EF12E759_mobile.label = Dia da África
+Button_D1C09E55_DF08_3AD6_41EB_8A1EE73FBBAA_mobile.label = Direção
+Button_D1C09E55_DF08_3AD6_41EB_8A1EE73FBBAA.label = Direção
+Button_D1C03E53_DF08_3AD2_41EA_B7954B6859BA.label = Estacionamento
+Button_D1C03E53_DF08_3AD2_41EA_B7954B6859BA.pressedLabel = Estacionamento
+Button_D1C03E53_DF08_3AD2_41EA_B7954B6859BA_mobile.label = Estacionamento
+Button_D1C03E53_DF08_3AD2_41EA_B7954B6859BA_mobile.pressedLabel = Estacionamento
+Button_D1C13E54_DF08_3AD6_41E0_FC74B2A92B57_mobile.label = Frente Colégio
+Button_D1C13E54_DF08_3AD6_41E0_FC74B2A92B57.label = Frente Colégio
+Button_D1C19E56_DF08_3AD2_41C1_EFCBA7D56318.label = Fundamental I
+Button_D1C19E56_DF08_3AD2_41C1_EFCBA7D56318_mobile.label = Fundamental I
+Button_D1C1EE56_DF08_3AD2_41E3_A06AA64FA150_mobile.label = Fundamental II
+Button_D1C1EE56_DF08_3AD2_41E3_A06AA64FA150.label = Fundamental II
+Button_D1C04E52_DF08_3AD2_41EA_85B04619E9B6_mobile.label = Hora do Sono
+Button_D1C04E52_DF08_3AD2_41EA_85B04619E9B6.label = Hora do Sono
+Button_D1DEFE57_DF08_3AD2_41EA_647713DBAEEC.label = Informática
+Button_D1DEFE57_DF08_3AD2_41EA_647713DBAEEC_mobile.label = Informática
+Button_D1DECE57_DF08_3AD2_41EB_31027A0C1A15.label = Inglês
+Button_D1DECE57_DF08_3AD2_41EB_31027A0C1A15_mobile.label = Inglês
+Button_D1C12E54_DF08_3AD6_41E6_B4DBC03EAF1C_mobile.label = Lateral Colégio
+Button_D1C12E54_DF08_3AD6_41E6_B4DBC03EAF1C.label = Lateral Colégio
+Button_D1C1EE57_DF08_3AD2_41BB_9C473108EEEF.label = Lorem Ipsum
+Button_D1C1BE57_DF08_3AD2_41C1_DC831A1C0CEA.label = Lorem Ipsum
+Button_D1DF3E57_DF08_3AD2_41C6_518CB63A3857.label = Lorem Ipsum
+Button_D1DE1E56_DF08_3AD2_41E3_95CB8E630CF9.label = Lorem Ipsum
+Button_D1C01E53_DF08_3AD2_41D5_E335D61B84AC_mobile.label = Lorem Ipsum
+Button_D1DE0E56_DF08_3AD2_41E4_AB598092DE77.label = Lorem Ipsum
+Button_D1C14E54_DF08_3AD6_41E4_0367C976A40B.label = Lorem Ipsum
+Button_D1C1CE56_DF08_3AD2_41CA_F68F6132E8BD.label = Lorem Ipsum
+Button_D1C16E55_DF08_3AD6_4187_45C39A3D83C9.label = Lorem Ipsum
+Button_D1DE2E56_DF08_3AD2_41E9_6E6816ECED95.label = Lorem Ipsum
+Button_D1C1DE56_DF08_3AD2_41C5_69FB6AF67A8C.label = Lorem Ipsum
+Button_D1C11E54_DF08_3AD6_41E4_88B7D0F51BFF.label = Lorem Ipsum
+Button_D1C1CE56_DF08_3AD2_41CA_F68F6132E8BD.pressedLabel = Lorem Ipsum
+Button_D1C10E55_DF08_3AD6_41D5_310AC279E731.label = Lorem Ipsum
+Button_D1C10E54_DF08_3AD6_41D6_B054D4BF7C16.pressedLabel = Lorem Ipsum
+Button_D1C19E57_DF08_3AD2_41E1_0A09ED9F1447.label = Lorem Ipsum
+Button_D1C05E54_DF08_3AD6_41E5_54BFD1C5BF7C.label = Lorem Ipsum
+Button_D1C18E54_DF08_3AD6_41E1_57894E1B51F8.label = Lorem Ipsum
+Button_D1C1BE54_DF08_3AD6_41E7_9BCFFA9DEBAA_mobile.label = Lorem Ipsum
+Button_D1C1BE57_DF08_3AD2_41C1_DC831A1C0CEA_mobile.label = Lorem Ipsum
+Button_D1DF3E57_DF08_3AD2_41C6_518CB63A3857_mobile.label = Lorem Ipsum
+Button_D1C01E53_DF08_3AD2_41D5_E335D61B84AC.label = Lorem Ipsum
+Button_D1C06E53_DF08_3AD2_41A3_11DD326DA5E7.label = Lorem Ipsum
+Button_D1C08E54_DF08_3AD6_41E0_B7A76168A854_mobile.label = Lorem Ipsum
+Button_EAA172C1_F937_F96D_41B0_8C8A261E94D4.label = Lorem Ipsum
+Button_D1C08E54_DF08_3AD6_41E0_B7A76168A854.label = Lorem Ipsum
+Button_D1C19E57_DF08_3AD2_41E1_0A09ED9F1447_mobile.label = Lorem Ipsum
+Button_D1C1EE57_DF08_3AD2_41BB_9C473108EEEF_mobile.label = Lorem Ipsum
+Button_D1C06E53_DF08_3AD2_41A3_11DD326DA5E7_mobile.label = Lorem Ipsum
+Button_D1DE1E56_DF08_3AD2_41E3_95CB8E630CF9_mobile.label = Lorem Ipsum
+Button_D1C10E54_DF08_3AD6_41D6_B054D4BF7C16_mobile.label = Lorem Ipsum
+Button_D1C10E54_DF08_3AD6_41D6_B054D4BF7C16_mobile.pressedLabel = Lorem Ipsum
+Button_D1C11E54_DF08_3AD6_41E4_88B7D0F51BFF_mobile.label = Lorem Ipsum
+Button_D1C14E54_DF08_3AD6_41E4_0367C976A40B_mobile.label = Lorem Ipsum
+Button_D1DE0E56_DF08_3AD2_41E4_AB598092DE77_mobile.label = Lorem Ipsum
+Button_D1C1DE56_DF08_3AD2_41C5_69FB6AF67A8C_mobile.label = Lorem Ipsum
+Button_D1C18E54_DF08_3AD6_41E1_57894E1B51F8_mobile.label = Lorem Ipsum
+Button_D1C10E54_DF08_3AD6_41D6_B054D4BF7C16.label = Lorem Ipsum
+Button_D1C10E55_DF08_3AD6_41D5_310AC279E731_mobile.label = Lorem Ipsum
+Button_D1C1BE54_DF08_3AD6_41E7_9BCFFA9DEBAA.label = Lorem Ipsum
+Button_D1C16E55_DF08_3AD6_4187_45C39A3D83C9_mobile.label = Lorem Ipsum
+Button_D1C1CE56_DF08_3AD2_41CA_F68F6132E8BD_mobile.pressedLabel = Lorem Ipsum
+Button_D1C05E54_DF08_3AD6_41E5_54BFD1C5BF7C_mobile.label = Lorem Ipsum
+Button_D1C1CE56_DF08_3AD2_41CA_F68F6132E8BD_mobile.label = Lorem Ipsum
+Button_EAA172C1_F937_F96D_41B0_8C8A261E94D4_mobile.label = Lorem Ipsum
+Button_D1DE2E56_DF08_3AD2_41E9_6E6816ECED95_mobile.label = Lorem Ipsum
+Button_D1C12E55_DF08_3AD6_41D7_4CE3238E6E93_mobile.label = Lorem ipsum
+Button_D1C04E54_DF08_3AD6_41D4_D879F7BE12DB.label = Lorem ipsum
+Button_D1C18E57_DF08_3AD2_41E8_F93EAB07F076.label = Lorem ipsum
+Button_D1C15E54_DF08_3AD6_41D7_6E4D734B0300_mobile.label = Lorem ipsum
+Button_D1C18E57_DF08_3AD2_41E8_F93EAB07F076_mobile.label = Lorem ipsum
+Button_D1C12E55_DF08_3AD6_41D7_4CE3238E6E93.label = Lorem ipsum
+Button_D1C15E54_DF08_3AD6_41D7_6E4D734B0300.label = Lorem ipsum
+Button_D1C04E54_DF08_3AD6_41D4_D879F7BE12DB_mobile.label = Lorem ipsum
+Button_D1DE3E56_DF08_3AD2_41EB_626D6277E1E4.label = Lorem ipsum
+Button_D1DE3E56_DF08_3AD2_41EB_626D6277E1E4_mobile.label = Lorem ipsum
+Button_2D396EC9_09FF_BDE9_415A_94DE9D6BE8B0_mobile.pressedLabel = McDonald's
+Button_2D396EC9_09FF_BDE9_415A_94DE9D6BE8B0.label = McDonald's
+Button_2D396EC9_09FF_BDE9_415A_94DE9D6BE8B0.pressedLabel = McDonald's
+Button_2D396EC9_09FF_BDE9_415A_94DE9D6BE8B0_mobile.label = McDonald's
+Button_D1C0EE52_DF08_3AD2_41D5_294BFD1105E4.label = Meeting Area 1
+Button_D1C0EE52_DF08_3AD2_41D5_294BFD1105E4_mobile.label = Meeting Area 1
+Button_D1C0CE53_DF08_3AD2_41DA_E52EAE038E5B_mobile.label = Meeting Area 2
+Button_D1C0CE53_DF08_3AD2_41DA_E52EAE038E5B.label = Meeting Area 2
+Button_D1C0EE54_DF08_3AD6_41E7_506EC2DAA993.label = Nossa Fachada
+Button_D1C0EE54_DF08_3AD6_41E7_506EC2DAA993_mobile.label = Nossa Fachada
+Button_D1C02E53_DF08_3AD2_41DB_9B6CFC6951EB.label = Padaria
+Button_D1C02E53_DF08_3AD2_41DB_9B6CFC6951EB_mobile.label = Padaria
+Button_D1C38E53_DF08_3AD2_41D8_3BD02038E8AB.label = Parceiros
+Button_D1C38E53_DF08_3AD2_41D8_3BD02038E8AB_mobile.label = Parceiros
+Button_D1C0BE52_DF08_3AD2_41DA_2EDEABD0A2C9.label = Reception
+Button_D1C0BE52_DF08_3AD2_41DA_2EDEABD0A2C9_mobile.label = Reception
+Button_D1C0BE52_DF08_3AD2_41DA_2EDEABD0A2C9.pressedLabel = Reception
+Button_D1C0BE52_DF08_3AD2_41DA_2EDEABD0A2C9_mobile.pressedLabel = Reception
+Button_D1DF2E57_DF08_3AD2_41D7_D266B1D00824_mobile.label = Robótica
+Button_D1DF2E57_DF08_3AD2_41D7_D266B1D00824.label = Robótica
+Button_D1DF2E57_DF08_3AD2_41D7_D266B1D00824.pressedLabel = Robótica
+Button_D1DF2E57_DF08_3AD2_41D7_D266B1D00824_mobile.pressedLabel = Robótica
+Button_F035F89E_EEB7_3694_41D9_52A1A92EBFA1_mobile.label = SAIBA MAIS
+Button_F035F89E_EEB7_3694_41D9_52A1A92EBFA1.label = SAIBA MAIS
+Button_D1DE7E56_DF08_3AD2_41D5_12C7C3508C2D.label = Sala da Interatividade
+Button_D1DE7E56_DF08_3AD2_41D5_12C7C3508C2D_mobile.label = Sala da Interatividade
+Button_D1C08E55_DF08_3AD6_41E9_55462E5A1833.label = Sala da Secretaria
+Button_D1C08E55_DF08_3AD6_41E9_55462E5A1833_mobile.label = Sala da Secretaria
+Button_D1C17E56_DF08_3AD2_41D2_8FF91A09A1EE_mobile.label = Sala de Aula
+Button_D1C17E56_DF08_3AD2_41D2_8FF91A09A1EE.label = Sala de Aula
+Button_D1C1EE55_DF08_3AD6_41D7_D2A309ED7EC3_mobile.label = Secretaria
+Button_D1C1EE55_DF08_3AD6_41D7_D2A309ED7EC3.label = Secretaria
+Button_D1C3AE53_DF08_3AD2_41C5_A43A4BF9D9E6.label = Terrace
+Button_D1C3AE53_DF08_3AD2_41C5_A43A4BF9D9E6_mobile.label = Terrace
+Button_D1C0FE55_DF08_3AD6_4198_E19B1FB962D5_mobile.label = Tesouraria
+Button_D1C0FE55_DF08_3AD6_4198_E19B1FB962D5.pressedLabel = Tesouraria
+Button_D1C0FE55_DF08_3AD6_4198_E19B1FB962D5.label = Tesouraria
+Button_D1C0FE55_DF08_3AD6_4198_E19B1FB962D5_mobile.pressedLabel = Tesouraria
+
+### Dropdown
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE.label = RESTAURANTS
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE_mobile.label = RESTAURANTS
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = SPORTS AREA
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7_mobile.label = SPORTS AREA
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = SWIMMING POOL
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09_mobile.label = SWIMMING POOL
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = USAR
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312_mobile.label = USAR
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B_mobile.label = USAR 2
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = USAR 2
+
+### Image
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_pt.png
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_pt.png
+Image_13EA11F7_06D4_67F2_4183_8714693EC887_mobile.url = skin/Image_13EA11F7_06D4_67F2_4183_8714693EC887_mobile_pt.jpg
+Image_13EA11F7_06D4_67F2_4183_8714693EC887.url = skin/Image_13EA11F7_06D4_67F2_4183_8714693EC887_pt.jpg
+Image_CD0AB692_DF08_6A52_41E6_AD3F63EED6EB_mobile.url = skin/Image_CD0AB692_DF08_6A52_41E6_AD3F63EED6EB_mobile_pt.png
+Image_CD0AB692_DF08_6A52_41E6_AD3F63EED6EB.url = skin/Image_CD0AB692_DF08_6A52_41E6_AD3F63EED6EB_pt.png
+Image_CD11A966_DF18_26F2_41E3_D43E53C677C2_mobile.url = skin/Image_CD11A966_DF18_26F2_41E3_D43E53C677C2_mobile_pt.png
+Image_CD11A966_DF18_26F2_41E3_D43E53C677C2.url = skin/Image_CD11A966_DF18_26F2_41E3_D43E53C677C2_pt.png
+Image_CE5246E5_DF08_2BF6_41C3_9C51BC311D02_mobile.url = skin/Image_CE5246E5_DF08_2BF6_41C3_9C51BC311D02_mobile_pt.png
+Image_CE5246E5_DF08_2BF6_41C3_9C51BC311D02.url = skin/Image_CE5246E5_DF08_2BF6_41C3_9C51BC311D02_pt.png
+Image_CEFA0DBD_DF18_3E56_41E1_DEECCCAAB194_mobile.url = skin/Image_CEFA0DBD_DF18_3E56_41E1_DEECCCAAB194_mobile_pt.png
+Image_CEFA0DBD_DF18_3E56_41E1_DEECCCAAB194.url = skin/Image_CEFA0DBD_DF18_3E56_41E1_DEECCCAAB194_pt.png
+Image_CF461D0A_DF18_3E32_41E9_876CCA1853A8_mobile.url = skin/Image_CF461D0A_DF18_3E32_41E9_876CCA1853A8_mobile_pt.png
+Image_CF461D0A_DF18_3E32_41E9_876CCA1853A8.url = skin/Image_CF461D0A_DF18_3E32_41E9_876CCA1853A8_pt.png
+
+### Label
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = Educação Adventista Brooklin
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = Educação Adventista Brooklin
+
+### Multiline Text
+HTMLText_F035D89E_EEB7_3694_41DD_408AECB9D485_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.83vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.74vh;word-break:break-word;font-family:'Bebas Neue Bold';">Sobre: Colégio Brooklin</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.48vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.48vh;word-break:break-word;font-family:'Bebas Neue Bold';">CONHEÇA NOSSA HISTÓRIA</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.076502732240437vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">Em 1964 a Igreja Adventista do 7º Dia do Brooklin, lançou o fundamento sólido para o funcionamento de mais uma escola cristã.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.076502732240437vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">A escola teve início com 22 alunos, e a princípio recebeu o nome de Escola Primária Adventista do Brooklin, sendo registrada em 15/02/1964. Com a autorização para o funcionamento da escola em 1967, sendo seu PGE homologado em 1974, culminou com o reconhecimento definitivo pelas autoridades de Ensino do Estado de São Paulo em 09 de outubro de 1980.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.076502732240437vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">A Educação Adventista deixa a sua marca em mais de 165 países, representada por quase 9 milhões de instituições que vão desde a Educação Infantil até o Ensino Superior, atuando nas mais diversas frentes da jornada de desenvolvimento do ser humano. Seguindo esse propósito, são mais de 106 mil professores comprometidos com a formação de, aproximadamente, 2 milhões de alunos. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.076502732240437vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">Além dessas unidades, a Rede Adventista de Educação mantém 15 colégios em regime de internato, dos quais, sete deles oferecem desde a Educação Básica até cursos de pós-graduação.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_F035D89E_EEB7_3694_41DD_408AECB9D485.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.83vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.74vh;word-break:break-word;font-family:'Bebas Neue Bold';">Sobre: Colégio Brooklin</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.48vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.48vh;word-break:break-word;font-family:'Bebas Neue Bold';">CONHEÇA NOSSA HISTÓRIA</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.076502732240437vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">Em 1964 a Igreja Adventista do 7º Dia do Brooklin, lançou o fundamento sólido para o funcionamento de mais uma escola cristã.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.076502732240437vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">A escola teve início com 22 alunos, e a princípio recebeu o nome de Escola Primária Adventista do Brooklin, sendo registrada em 15/02/1964. Com a autorização para o funcionamento da escola em 1967, sendo seu PGE homologado em 1974, culminou com o reconhecimento definitivo pelas autoridades de Ensino do Estado de São Paulo em 09 de outubro de 1980.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.076502732240437vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">A Educação Adventista deixa a sua marca em mais de 165 países, representada por quase 9 milhões de instituições que vão desde a Educação Infantil até o Ensino Superior, atuando nas mais diversas frentes da jornada de desenvolvimento do ser humano. Seguindo esse propósito, são mais de 106 mil professores comprometidos com a formação de, aproximadamente, 2 milhões de alunos. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.076502732240437vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">Além dessas unidades, a Rede Adventista de Educação mantém 15 colégios em regime de internato, dos quais, sete deles oferecem desde a Educação Básica até cursos de pós-graduação.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_2AFD744E_07EC_6C12_4181_59CAAC52A84C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.330000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.65vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;word-break:break-word;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_2AFD744E_07EC_6C12_4181_59CAAC52A84C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.330000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.65vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;word-break:break-word;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_D1C1DE57_DF08_3AD2_41D4_77152A614F2C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_D1C1DE57_DF08_3AD2_41D4_77152A614F2C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Conheça nosso espaço em 360 graus
+
+### Title
+tour.name = Colégio Adventista Brooklin
